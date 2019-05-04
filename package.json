@@ -1,0 +1,13 @@
+{
+  "name": "gist-delete",
+  "version": "2019.5.3",
+  "description": ":octocat: delete gist(s) by ID",
+  "keywords": [
+    "gist"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/gist-delete",
+  "license": "Unlicense",
+  "bin": {
+    "gist-delete": "./scripts/gist-delete"
+  }
+}
