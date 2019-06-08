@@ -1,7 +1,7 @@
 {
   "name": "gist-delete",
   "version": "2019.5.3",
-  "description": ":octocat: delete gist(s) by ID",
+  "description": "delete gist(s) by ID",
   "keywords": [
     "gist"
   ],
