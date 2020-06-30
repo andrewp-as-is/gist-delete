@@ -1,29 +1,26 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
+
+
 
 [![](https://img.shields.io/badge/OS-Unix-blue.svg?longCache=True)]()
 [![](https://img.shields.io/pypi/v/gist-delete.svg?maxAge=3600)](https://pypi.org/project/gist-delete/)
-[![](https://img.shields.io/npm/v/gist-delete.svg?maxAge=3600)](https://www.npmjs.com/package/gist-delete)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/gist-delete.svg?branch=master)](https://travis-ci.org/looking-for-a-job/gist-delete/)
+[![](https://img.shields.io/npm/v/gist-delete.svg?maxAge=3600)](https://www.npmjs.com/package/gist-delete)[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/gist-delete/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/gist-delete/actions)
 
-#### Installation
-```bash
-$ [sudo] npm i -g gist-delete
-```
+### Installation
 ```bash
 $ [sudo] pip install gist-delete
+```
+
+```bash
+$ [sudo] npm i -g gist-delete
 ```
 
 #### Config
 ```bash
 $ export GITHUB_TOKEN="<GITHUB_TOKEN>"
-```
-
-#### Scripts usage
-```bash
-usage: gist-delete id ...
 ```
 
 #### Examples
@@ -38,5 +35,5 @@ $ python -m gists_id | grep -v "$(find ~/git/gists -maxdepth 1 -exec gist-id {} 
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
