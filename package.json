@@ -1,6 +1,6 @@
 {
   "name": "gist-delete",
-  "version": "2019.5.3",
+  "version": "2020.12.3",
   "description": "delete gist(s) by ID",
   "keywords": [
     "gist"
